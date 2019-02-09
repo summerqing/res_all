@@ -1,0 +1,31 @@
+1. An open source library for deep learning end-to-end dialog systems and chatbots
+https://github.com/deepmipt/DeepPavlov
+
+2. A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
+https://github.com/facebookresearch/ParlAI
+
+3. Dual LSTM Encoder for Dialog Response Generation
+https://github.com/dennybritz/chatbot-retrieval/
+
+4. MMdnn is a set of tools to help users inter-operate among different deep learning frameworks
+https://github.com/Microsoft/MMdnn
+
+5. baidu/AnyQ
+https://github.com/baidu/AnyQ
+
+6. a PyTorch implementation of the DrQA system
+https://github.com/facebookresearch/DrQA
+
+7. QuestionAnsweringSystem是一个Java实现的人机问答系统，能够自动分析问题并给出候选答案
+https://github.com/ysc/QuestionAnsweringSystem
+
+8. 聊天机器人资源合集
+https://github.com/fendouai/Awesome-chatbot
+
+9. ChatterBot is a machine learning, conversational dialog engine for creating chat bots
+https://github.com/gunthercox/ChatterBot
+
+10. Open source chatbot framework with machine learning-based dialogue management - Build contextual AI assistants  
+https://github.com/RasaHQ/rasa_core
+
+
