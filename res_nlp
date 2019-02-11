@@ -1,0 +1,60 @@
+1. A very simple framework for state-of-the-art Natural Language Processing (NLP)
+https://github.com/zalandoresearch/flair
+
+2. A natural language modeling framework based on PyTorch 
+https://github.com/facebookresearch/PyText
+
+3. NLP made easy 
+http://gluon-nlp.mxnet.io
+
+4. A Chinese information extraction tool
+https://github.com/fighting41love/cocoNLP
+
+5. AllenNLP
+https://github.com/allenai/AllenNLP
+
+6. Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+https://github.com/pytorch/fairseq
+
+7. Open Source Neural Machine Translation in PyTorch
+https://github.com/OpenNMT/OpenNMT-PyTorch
+
+8. DeepNLP-models-PyTorch
+https://github.com/DSKSD/DeepNLP-models-PyTorch
+
+9. StanfordNLP 
+https://github.com/stanfordnlp/stanfordnlp  
+  
+10. 基于PyTorch实现BLSTM-CNN-CRF模型
+https://github.com/liu-nlper/SLTK
+https://github.com/clab/stack-lstm-ner
+
+11. MatchZoo 是一个通用的文本匹配工具包，它旨在方便大家快速的实现、比较、以及分享最新的深度文本匹配模型
+https://github.com/NTMC-Community/MatchZoo
+
+12. The Natural Language Decathlon: A Multitask Challenge for NLP
+https://github.com/salesforce/decaNLP 
+
+13. 中文自然语言入门 : Book
+https://gitbook.cn/gitchat/column/5b10b073aafe4e5a7516708b#catalog
+https://github.com/sujeek/chinese_nlp
+
+14. 分词
+https://github.com/fxsjy/jieba
+
+15. 分词+中文分析+python版本
+https://github.com/hankcs/pyhanlp
+
+16. Python library for processing Chinese text
+https://github.com/isnowfy/snownlp
+
+17. Book - python自然语言实战
+https://github.com/nlpinaction/learning-nlp.git
+
+18. Language Technology Platform -> 存在python版本
+https://github.com/HIT-SCIR/ltp
+
+19. stanford parser (Chinese)  
+https://nlp.stanford.edu/software/lex-parser.shtml 
+
+20.   

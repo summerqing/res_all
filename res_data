@@ -1,0 +1,23 @@
+1. 数据清洗
+https://www.jiqizhixin.com/articles/2019-01-22-5?from=synced&keyword=数据清洗
+
+2. 集成学习:
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models 
+
+3. 处理文本数据: python
+https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python
+
+4. 40个中文NLP词库
+https://github.com/fighting41love/funNLP
+人名，地名，公司名抽取，司法词库
+
+5. Tencent AI Lab Embedding Corpus for Chinese Words and Phrases 
+https://ai.tencent.com/ailab/nlp/embedding.html
+
+6. 100+ Chinese Word Vectors 上百种预训练中文词向量
+https://github.com/Embedding/Chinese-Word-Vectors
+
+7. Four word embedding models implemented in Python. Supporting arbitrary context features
+https://github.com/zhezhaoa/ngram2vec/
+
+8.    

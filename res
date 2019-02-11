@@ -120,7 +120,7 @@ https://github.com/clab/stack-lstm-ner
 40. MatchZoo 是一个通用的文本匹配工具包，它旨在方便大家快速的实现、比较、以及分享最新的深度文本匹配模型
 https://github.com/NTMC-Community/MatchZoo
 
-41. An open-source NLP research library, built on PyTorch
+#41. An open-source NLP research library, built on PyTorch
 https://github.com/allenai/allennlp 
 
 42. The Natura Decathlon: A Multitask Challenge for NLP

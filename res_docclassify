@@ -17,4 +17,19 @@ https://github.com/Socialbird-AILab/BERT-Classification-Tutorial
 https://github.com/ahmedbesbes/character-based-cnn
 
 7. mhan git:(master) git remote -v
-origin	https://github.com/idiap/mhan.git (fetch)  
+origin	https://github.com/idiap/mhan.git (fetch)
+
+8. fastText
+https://github.com/facebookresearch/fastText
+
+9. Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+https://github.com/dmlc/xgboost
+
+10. 判断文档抄袭
+http://www.datagrand.com/blog/fingerprint.html 
+
+11. 知乎“看山杯” 夺冠记
+https://zhuanlan.zhihu.com/p/28923961
+
+
+
